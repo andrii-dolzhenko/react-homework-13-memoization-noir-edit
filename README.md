@@ -6,7 +6,7 @@ The **NOIR / EDIT** project is a responsive editorial product catalogue with fil
 
 ## Live Demo
 
-VERCEL_DEMO_URL
+https://react-homework-13-memoization-noir.vercel.app/
 
 ## Features
 
@@ -391,7 +391,11 @@ https://github.com/andrii-dolzhenko/react-homework-13-memoization-noir-edit
 
 Live Demo:
 
-VERCEL_DEMO_URL
+https://react-homework-13-memoization-noir.vercel.app/
+
+GitHub Pages:
+
+https://andrii-dolzhenko.github.io/react-homework-13-memoization-noir-edit/
 
 ## Author
 
